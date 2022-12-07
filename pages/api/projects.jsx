@@ -3,7 +3,7 @@ export default async (req, res) => {
     {
       id: 1,
       image: "https://cdn.discordapp.com/attachments/1040672701402062890/1040673159629779004/3512c83d-dc2a-45b5-bcd7-920baf540b5e.png",
-      name: "Code Share",
+      name: "WXN DEV",
       description: "Discord türkiyenin en büyük discord bot komutları arşivi ve en büyük discord botu uptime, hostlayıcı websitesi. Wxn veritabanında discord botlarına özgü yüzlerce discord bot komutu bulunmaktadır ve kendi discord botunuzu yaratmanıza yardımcı olur.",
       link: "https://nuhz.vercel.app",
     },
